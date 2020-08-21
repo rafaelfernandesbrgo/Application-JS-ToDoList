@@ -1,4 +1,4 @@
-# To-do List
+# Application-JS-ToDoList
 Simple application to demonstrate DOM manipulation with pure js.
  
 It is a good example of how to work with HTML elements and events using pure JS, working with the concept of selection, creation, alteration, stylization.
